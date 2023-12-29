@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TodosList">
+  <DataContextMoniker Name="/TodosListDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ea0707c1-02d7-4ca9-9ef3-1e64ff7b510e" absoluteBounds="0.5, 4, 2, 1.9631982421875">
+      <DataClassMoniker Name="/TodosListDataContext/Todo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6d9bb001-c2fc-4c8f-b5a1-4d5214f99a91" absoluteBounds="0.51500000000000012, 4.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3679eab6-3adc-4140-871e-66c5877a6b5e" absoluteBounds="0.5, 1.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TodosListDataContext/user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="55fc1639-f4f1-4a3a-a799-31864d165097" absoluteBounds="0.515, 1.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.5 : 2.82859537760417); (1.5 : 4)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TodosListDataContext/user/user_Todo" />
+      <nodes>
+        <classShapeMoniker Id="3679eab6-3adc-4140-871e-66c5877a6b5e" />
+        <classShapeMoniker Id="ea0707c1-02d7-4ca9-9ef3-1e64ff7b510e" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

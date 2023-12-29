@@ -1,0 +1,7 @@
+C:\Users\Sumit\source\repos\TodoListManagement\TodoListManagement\bin\Debug\TodoListManagement.exe.config
+C:\Users\Sumit\source\repos\TodoListManagement\TodoListManagement\bin\Debug\TodoListManagement.exe
+C:\Users\Sumit\source\repos\TodoListManagement\TodoListManagement\bin\Debug\TodoListManagement.pdb
+C:\Users\Sumit\source\repos\TodoListManagement\TodoListManagement\obj\Debug\TodoListManagement.csproj.AssemblyReference.cache
+C:\Users\Sumit\source\repos\TodoListManagement\TodoListManagement\obj\Debug\TodoListManagement.csproj.CoreCompileInputs.cache
+C:\Users\Sumit\source\repos\TodoListManagement\TodoListManagement\obj\Debug\TodoListManagement.exe
+C:\Users\Sumit\source\repos\TodoListManagement\TodoListManagement\obj\Debug\TodoListManagement.pdb
